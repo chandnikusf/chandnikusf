@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chandni !</h1>
+<h1 align="center">Hi 👋, I'm Chandni Kumari!</h1>
 <h3 align="center"><img src="https://github.com/chandnikusf/Introduction/assets/119237294/10a9d597-ef36-4e28-9adc-2f6589c6cc44" width="100" align="left" >With over a decade of experience in the field of data science, data engineering, analysis, database management, and ERP systems, I am a visionary leader adept at data pre-processing, feature selection, exploratory data analysis, data visualization, and seamless project management. My goal is to deliver impactful solutions through concise and impressive execution, leveraging exceptional communication and analytical problem-solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandnikusf&label=Profile%20views&color=0e75b6&style=flat" alt="chandnikusf" /> </p>
