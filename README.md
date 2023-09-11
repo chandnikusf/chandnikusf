@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chandni !</h1>
-<h3 align="center">With over a decade of experience in the field of data science, data engineering, analysis, database management, and ERP systems, I am a visionary leader adept at data pre-processing, feature selection, exploratory data analysis, data visualization, and seamless project management. My goal is to deliver impactful solutions through concise and impressive execution, leveraging exceptional communication and analytical problem-solving skills.</h3>
-![IMG-0481](https://github.com/chandnikusf/Introduction/assets/119237294/172910d9-55b3-4842-8143-83ed3c939dd9)
-<img align= "right" width="350"  src="https://camo.githubusercontent.com/402b2fc1baaf7931fcadd20d59223a85cac298d84aaefe6486868a4f1b3e4fd7/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f31373730372f73637265656e73686f74732f323431333735342f7272722e676966">
+<h3 align="center"><img src="https://github.com/chandnikusf/Introduction/assets/119237294/10a9d597-ef36-4e28-9adc-2f6589c6cc44" width="100" align="left" >With over a decade of experience in the field of data science, data engineering, analysis, database management, and ERP systems, I am a visionary leader adept at data pre-processing, feature selection, exploratory data analysis, data visualization, and seamless project management. My goal is to deliver impactful solutions through concise and impressive execution, leveraging exceptional communication and analytical problem-solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandnikusf&label=Profile%20views&color=0e75b6&style=flat" alt="chandnikusf" /> </p>
+
+
+<img align= "right" width="250"  src="https://camo.githubusercontent.com/402b2fc1baaf7931fcadd20d59223a85cac298d84aaefe6486868a4f1b3e4fd7/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f31373730372f73637265656e73686f74732f323431333735342f7272722e676966">
 
 - 🔭 I'm currently working as a Graduate Research Assisteant at the University of South Florida.
 - 🔭 I've worked as a Data and Technology Analyst intern at South East Toyota Finance, JM Family Enterprises during summer'23.
