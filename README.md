@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandni !</h1>
+<img align= "right" width="50"  src="C:/Users/chand/Desktop/IMG-0481.jpg">
 
-<h3 align="center">With over 12 years of experience in the field of data analysis, database management, and ERP systems, I am a visionary leader adept at data pre-processing, feature selection, exploratory data analysis, data visualization, and seamless project management. My goal is to deliver impactful solutions through concise and impressive execution, leveraging exceptional communication and analytical problem-solving skills.</h3>
+<h3 align="center">With over a decade of experience in the field of data science, data engineering, analysis, database management, and ERP systems, I am a visionary leader adept at data pre-processing, feature selection, exploratory data analysis, data visualization, and seamless project management. My goal is to deliver impactful solutions through concise and impressive execution, leveraging exceptional communication and analytical problem-solving skills.</h3>
 
 <img align= "right" width="350"  src="https://camo.githubusercontent.com/402b2fc1baaf7931fcadd20d59223a85cac298d84aaefe6486868a4f1b3e4fd7/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f31373730372f73637265656e73686f74732f323431333735342f7272722e676966">
 
@@ -9,7 +10,7 @@
 - 🔭 I'm currently working as a Graduate Research Assisteant at the University of South Florida.
 - 🔭 I've worked as a Data and Technology Analyst intern at South East Toyota Finance, JM Family Enterprises during summer'23.
 - 🔭 I’ve worked part-time as an ERP Analyst in the IT Department at the University of South Florida. 
-- 🔭 I’ve worked as a Data Team Lead with over 12 years of experience at my previous employer in India.
+- 🔭 I’ve worked as a Data Team Lead with 10+ years of experience at my previous employer in India.
 - 🌱 I’m currently pursuing Masters in Business Analytics & Info Sys at the University of South Florida. 
 
 - 📫 How to reach me **chandnik@usf.edu**
