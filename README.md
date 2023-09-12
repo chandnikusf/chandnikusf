@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandni Kumari!</h1>
 
-<h3 align="center"><img src="https://github.com/chandnikusf/chandnikusf/assets/119237294/298ea5bc-fea4-4653-ba47-63f4105aab3e" width="200" align="left" >With over a decade of experience in the field of data science, data engineering, analysis, database management, and ERP systems, I am a visionary leader adept at data pre-processing, feature selection, exploratory data analysis, data visualization, and seamless project management. My goal is to deliver impactful solutions through concise and impressive execution, leveraging exceptional communication and analytical problem-solving skills.</h3>
+<h3 align="center">With over a decade of experience in the field of data science, data engineering, analysis, database management, and ERP systems, I am a visionary leader adept at data pre-processing, feature selection, exploratory data analysis, data visualization, and seamless project management. My goal is to deliver impactful solutions through concise and impressive execution, leveraging exceptional communication and analytical problem-solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandnikusf&label=Profile%20views&color=0e75b6&style=flat" alt="chandnikusf" /> </p>
 
